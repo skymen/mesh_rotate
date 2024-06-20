@@ -13,7 +13,7 @@ const Config = {
   author: "skymen",
   website: "https://www.construct.net",
   documentation: "https://www.construct.net",
-  description: "Description",
+  description: "Rotate an object using the mesh points",
   // icon: "icon.svg", // defaults to "icon.svg" if omitted
   // addonUrl: "https://www.construct.net/en/make-games/addons/####/XXXX", // displayed in auto-generated docs
   // githubUrl: "https://github.com/skymen/XXXX", // displays latest release version in auto-generated docs
