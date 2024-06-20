@@ -4,7 +4,7 @@ const Config = {
   addonType: "behavior",
   id: "skymen_mesh_rotate",
   name: "Mesh Rotate",
-  version: "1.0.0.0",
+  version: "1.0.0.1",
   category:
     // "attributes",
     // "movements",
