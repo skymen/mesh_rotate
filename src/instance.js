@@ -111,7 +111,6 @@ function getInstanceJs(parentClass, scriptInterface, addonTriggers, C3) {
     }
 
     _SetMeshFromPoints(points) {
-      debugger;
       let wi = this._inst.GetWorldInfo();
       if (!this.isMeshCorrect()) {
         wi.CreateMesh(2, 2);
